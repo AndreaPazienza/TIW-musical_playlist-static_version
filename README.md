@@ -6,7 +6,7 @@ This repository contains the static version of the music playlist manager projec
 
 ## Overview
 
-The goal of this project was to implement a music playlist manager with a static frontend using JSP. The backend is written in Java and connects to a MySQL database via JDBC.
+The goal of this project was to implement a music playlist manager with a static frontend using JSP. The backend is written in Java and connects to a MySQL database via JDBC. The site's style is managed using CSS.
 
 ---
 
@@ -39,6 +39,7 @@ The goal of this project was to implement a music playlist manager with a static
 - JDBC
 - MySQL
 - JSP
+- CSS
 
 ---
 
