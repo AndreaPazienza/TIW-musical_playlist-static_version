@@ -17,7 +17,7 @@ The goal of this project was to implement a music playlist manager with a static
 - `PlaylistMusicaleHTML/src/main/java/`: Contains the Java backend code and JDBC connection logic.
   - `beans/`: Contains Java classes representing data models.
   - `dao/`: Contains Data Access Object classes for database operations.
-  - `controllers/`: Contains servlets or controller classes handling HTTP requests.
+  - `controllers/`: Contains servlets classes handling HTTP requests.
 - `PlaylistMusicaleHTML/src/main/webapp/`: Contains the frontend of the web application.
   - `WEB-INF/`: Contains JSP files and the `web.xml` deployment descriptor.
   - `resources/style/`: Contains the CSS files for styling the site.
