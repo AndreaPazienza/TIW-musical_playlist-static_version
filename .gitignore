@@ -1,3 +1,11 @@
+# Eclipse files
+.metadata
+.settings
+.project
+.classpath
+bin/
+*.class
+
 # Logs
 logs
 *.log
