@@ -29,7 +29,7 @@ The goal of this project was to implement a music playlist manager with a static
 
 ## Documentation
 
-- [Project Documentation](Deliverables/Documentations.pdf)
+- [Project Documentation](Deliverables/Documentation.pdf)
 
 ---
 
