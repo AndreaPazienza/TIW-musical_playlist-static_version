@@ -6,6 +6,9 @@
 bin/
 *.class
 
+# Manifest file
+META-INF/MANIFEST.MF
+
 # Logs
 logs
 *.log
