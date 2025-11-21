@@ -12,9 +12,17 @@ The goal of this project was to implement a music playlist manager with a static
 
 ## Project Structure
 
+## Project Structure
+
 - `PlaylistMusicaleHTML/src/main/java/`: Contains the Java backend code and JDBC connection logic.
-- `PlaylistMusicaleHTML/src/main/webapp/`: Contains the JSP frontend files.
+  - `beans/`: Contains Java classes representing data models.
+  - `dao/`: Contains Data Access Object classes for database operations.
+  - `controllers/`: Contains servlets or controller classes handling HTTP requests.
+- `PlaylistMusicaleHTML/src/main/webapp/`: Contains the frontend of the web application.
+  - `WEB-INF/`: Contains JSP files and the `web.xml` deployment descriptor.
+  - `resources/style/`: Contains the CSS files for styling the site.
 - `Deliverables/`: Contains the project documentation.
+
 
 ---
 
@@ -22,7 +30,7 @@ The goal of this project was to implement a music playlist manager with a static
 
 1. Set up a MySQL database and import the provided schema.
 2. Compile and run the Java backend.
-3. Deploy the JSP files on a compatible web server (e.g., Apache Tomcat).
+3. Deploy the JSP files on a compatible web server.
 4. Access the application through the web browser.
 
 ---
