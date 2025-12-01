@@ -25,7 +25,7 @@ The goal of this project was to implement a music playlist manager with a static
 
 ## How to Run the Project
 
-1. Set up a MySQL database and import the provided schema.
+1. Set up a MySQL database and create the tables as described in the project documentation.
 2. Compile and run the Java backend.
 3. Deploy the JSP files on a compatible web server.
 4. Access the application through the web browser.
